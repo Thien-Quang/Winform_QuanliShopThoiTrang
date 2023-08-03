@@ -1,0 +1,16 @@
+Tên ứng dụng : Quản lý cửa hàng quần áo.
+Sơ lược chức năng : Dùng để quản lí nhân viên trong cửa hàng, quản lí xuất nhập quần áo phụ kiện có trong cửa hàng một cách thuận lợi.
+Ngày bắt đầu : 4/4/2023.
+Ngày hoàn thành :7/4/2023.
+Tên : Liêu Thiện Quang.
+Mssv : 26211200285.
+Ngôn ngữ sử dụng : c# .
+Tính năng : 
+		* Có chức năng đăng nhập 
+			- Tài khoản nguồn : admin, mk : 123456
+			- tài khoản thêm  : thienquang, mk 654321
+		* file -> thông tin tài khoản -> xóa , đăng kí tài khoản và thay đổi mật khẩu 
+		* Quản lí nhân viên của cửa hàng có thể thêm sửa xóa nhân viên 
+		* quản lí quần có thể thêm sửa xóa sản phầm là quần mới 
+		* quản lí áo có thể thêm sửa xóa sản phầm là áo mới 
+		* quản lí phụ kiện có thể thêm sửa xóa sản phầm là phụ kiện mới  

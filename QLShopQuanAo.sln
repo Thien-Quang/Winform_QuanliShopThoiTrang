@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33402.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLShopQuanAo", "QLShopQuanAo.csproj", "{EBEF0FAA-52DB-49F2-83A4-C56AB9C3EA6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBEF0FAA-52DB-49F2-83A4-C56AB9C3EA6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBEF0FAA-52DB-49F2-83A4-C56AB9C3EA6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBEF0FAA-52DB-49F2-83A4-C56AB9C3EA6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBEF0FAA-52DB-49F2-83A4-C56AB9C3EA6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD059CF4-5F5C-4609-B08A-45CF9C16FE88}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,88 @@
+D:\laptrinhC#\kithuatthuongmaiientu\QLShopQuanAo\bin\Debug\QLShopQuanAo.exe.config
+D:\laptrinhC#\kithuatthuongmaiientu\QLShopQuanAo\bin\Debug\QLShopQuanAo.exe
+D:\laptrinhC#\kithuatthuongmaiientu\QLShopQuanAo\bin\Debug\QLShopQuanAo.pdb
+D:\laptrinhC#\kithuatthuongmaiientu\QLShopQuanAo\obj\Debug\QLShopQuanAo.csproj.AssemblyReference.cache
+D:\laptrinhC#\kithuatthuongmaiientu\QLShopQuanAo\obj\Debug\QLShopQuanAo.csproj.SuggestedBindingRedirects.cache
+D:\laptrinhC#\kithuatthuongmaiientu\QLShopQuanAo\obj\Debug\QLShopQuanAo.frm_DangNhap.resources
+D:\laptrinhC#\kithuatthuongmaiientu\QLShopQuanAo\obj\Debug\QLShopQuanAo.frm_Menu.resources
+D:\laptrinhC#\kithuatthuongmaiientu\QLShopQuanAo\obj\Debug\QLShopQuanAo.frm_NhanVien.resources
+D:\laptrinhC#\kithuatthuongmaiientu\QLShopQuanAo\obj\Debug\QLShopQuanAo.frm_QuanLy_Ao.resources
+D:\laptrinhC#\kithuatthuongmaiientu\QLShopQuanAo\obj\Debug\QLShopQuanAo.frm_QuanLy_PhuKien.resources
+D:\laptrinhC#\kithuatthuongmaiientu\QLShopQuanAo\obj\Debug\QLShopQuanAo.frm_QuanLy_Quan.resources
+D:\laptrinhC#\kithuatthuongmaiientu\QLShopQuanAo\obj\Debug\QLShopQuanAo.Properties.Resources.resources
+D:\laptrinhC#\kithuatthuongmaiientu\QLShopQuanAo\obj\Debug\QLShopQuanAo.csproj.GenerateResource.cache
+D:\laptrinhC#\kithuatthuongmaiientu\QLShopQuanAo\obj\Debug\QLShopQuanAo.csproj.CoreCompileInputs.cache
+D:\laptrinhC#\kithuatthuongmaiientu\QLShopQuanAo\obj\Debug\QLShopQuanAo.exe
+D:\laptrinhC#\kithuatthuongmaiientu\QLShopQuanAo\obj\Debug\QLShopQuanAo.pdb
+D:\laptrinhC#\laptrinhungdungdotnet\QLShopQuanAo\bin\Debug\QLShopQuanAo.exe.config
+D:\laptrinhC#\laptrinhungdungdotnet\QLShopQuanAo\bin\Debug\QLShopQuanAo.exe
+D:\laptrinhC#\laptrinhungdungdotnet\QLShopQuanAo\bin\Debug\QLShopQuanAo.pdb
+D:\laptrinhC#\laptrinhungdungdotnet\QLShopQuanAo\obj\Debug\QLShopQuanAo.csproj.AssemblyReference.cache
+D:\laptrinhC#\laptrinhungdungdotnet\QLShopQuanAo\obj\Debug\QLShopQuanAo.csproj.SuggestedBindingRedirects.cache
+D:\laptrinhC#\laptrinhungdungdotnet\QLShopQuanAo\obj\Debug\QLShopQuanAo.frm_DangNhap.resources
+D:\laptrinhC#\laptrinhungdungdotnet\QLShopQuanAo\obj\Debug\QLShopQuanAo.frm_Menu.resources
+D:\laptrinhC#\laptrinhungdungdotnet\QLShopQuanAo\obj\Debug\QLShopQuanAo.frm_NhanVien.resources
+D:\laptrinhC#\laptrinhungdungdotnet\QLShopQuanAo\obj\Debug\QLShopQuanAo.frm_QuanLy_Ao.resources
+D:\laptrinhC#\laptrinhungdungdotnet\QLShopQuanAo\obj\Debug\QLShopQuanAo.frm_QuanLy_PhuKien.resources
+D:\laptrinhC#\laptrinhungdungdotnet\QLShopQuanAo\obj\Debug\QLShopQuanAo.frm_QuanLy_Quan.resources
+D:\laptrinhC#\laptrinhungdungdotnet\QLShopQuanAo\obj\Debug\QLShopQuanAo.Properties.Resources.resources
+D:\laptrinhC#\laptrinhungdungdotnet\QLShopQuanAo\obj\Debug\QLShopQuanAo.csproj.GenerateResource.cache
+D:\laptrinhC#\laptrinhungdungdotnet\QLShopQuanAo\obj\Debug\QLShopQuanAo.csproj.CoreCompileInputs.cache
+D:\laptrinhC#\laptrinhungdungdotnet\QLShopQuanAo\obj\Debug\QLShopQuanAo.exe
+D:\laptrinhC#\laptrinhungdungdotnet\QLShopQuanAo\obj\Debug\QLShopQuanAo.pdb
+D:\laptrinhC#\laptrinhungdungdotnet\QLShopQuanAo\obj\Debug\QLShopQuanAo.frm_ThongTinUngDung.resources
+D:\laptrinhC#\laptrinhungdungdotnet\QLShopQuanAo\bin\Debug\DataOfShop.mdf
+D:\laptrinhC#\laptrinhungdungdotnet\QLShopQuanAo\bin\Debug\DataOfShop_log.ldf
+D:\laptrinhC#\laptrinhungdungdotnet\QLShopQuanAo\obj\Debug\QLShopQuanAo.frm_TaiKhoanDangNhap.resources
+D:\laptrinhC#\laptrinhungdungdotnet\QLShopQuanAo\bin\Debug\QLShopQuanAo.exe.manifest
+D:\laptrinhC#\laptrinhungdungdotnet\QLShopQuanAo\bin\Debug\QLShopQuanAo.application
+D:\laptrinhC#\laptrinhungdungdotnet\QLShopQuanAo\obj\Debug\QLShopQuanAo.exe.manifest
+D:\laptrinhC#\laptrinhungdungdotnet\QLShopQuanAo\obj\Debug\QLShopQuanAo.application
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_Liêu Thiện Quang _ 0285_QLShopQuanAo\bin\Debug\DataOfShop.mdf
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_Liêu Thiện Quang _ 0285_QLShopQuanAo\bin\Debug\DataOfShop_log.ldf
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_Liêu Thiện Quang _ 0285_QLShopQuanAo\bin\Debug\QLShopQuanAo.exe.config
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_Liêu Thiện Quang _ 0285_QLShopQuanAo\bin\Debug\QLShopQuanAo.exe.manifest
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_Liêu Thiện Quang _ 0285_QLShopQuanAo\bin\Debug\QLShopQuanAo.application
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_Liêu Thiện Quang _ 0285_QLShopQuanAo\bin\Debug\QLShopQuanAo.exe
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_Liêu Thiện Quang _ 0285_QLShopQuanAo\bin\Debug\QLShopQuanAo.pdb
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_Liêu Thiện Quang _ 0285_QLShopQuanAo\obj\Debug\QLShopQuanAo.csproj.AssemblyReference.cache
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_Liêu Thiện Quang _ 0285_QLShopQuanAo\obj\Debug\QLShopQuanAo.csproj.SuggestedBindingRedirects.cache
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_Liêu Thiện Quang _ 0285_QLShopQuanAo\obj\Debug\QLShopQuanAo.frm_DangNhap.resources
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_Liêu Thiện Quang _ 0285_QLShopQuanAo\obj\Debug\QLShopQuanAo.frm_Menu.resources
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_Liêu Thiện Quang _ 0285_QLShopQuanAo\obj\Debug\QLShopQuanAo.frm_NhanVien.resources
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_Liêu Thiện Quang _ 0285_QLShopQuanAo\obj\Debug\QLShopQuanAo.frm_QuanLy_Ao.resources
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_Liêu Thiện Quang _ 0285_QLShopQuanAo\obj\Debug\QLShopQuanAo.frm_QuanLy_PhuKien.resources
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_Liêu Thiện Quang _ 0285_QLShopQuanAo\obj\Debug\QLShopQuanAo.frm_QuanLy_Quan.resources
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_Liêu Thiện Quang _ 0285_QLShopQuanAo\obj\Debug\QLShopQuanAo.frm_TaiKhoanDangNhap.resources
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_Liêu Thiện Quang _ 0285_QLShopQuanAo\obj\Debug\QLShopQuanAo.frm_ThongTinUngDung.resources
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_Liêu Thiện Quang _ 0285_QLShopQuanAo\obj\Debug\QLShopQuanAo.Properties.Resources.resources
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_Liêu Thiện Quang _ 0285_QLShopQuanAo\obj\Debug\QLShopQuanAo.csproj.GenerateResource.cache
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_Liêu Thiện Quang _ 0285_QLShopQuanAo\obj\Debug\QLShopQuanAo.csproj.CoreCompileInputs.cache
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_Liêu Thiện Quang _ 0285_QLShopQuanAo\obj\Debug\QLShopQuanAo.exe.manifest
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_Liêu Thiện Quang _ 0285_QLShopQuanAo\obj\Debug\QLShopQuanAo.application
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_Liêu Thiện Quang _ 0285_QLShopQuanAo\obj\Debug\QLShopQuanAo.exe
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_Liêu Thiện Quang _ 0285_QLShopQuanAo\obj\Debug\QLShopQuanAo.pdb
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_LiêuThiệnQuang _ 0285_QLShopQuanAo\bin\Debug\DataOfShop.mdf
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_LiêuThiệnQuang _ 0285_QLShopQuanAo\bin\Debug\DataOfShop_log.ldf
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_LiêuThiệnQuang _ 0285_QLShopQuanAo\bin\Debug\QLShopQuanAo.exe.config
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_LiêuThiệnQuang _ 0285_QLShopQuanAo\bin\Debug\QLShopQuanAo.exe.manifest
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_LiêuThiệnQuang _ 0285_QLShopQuanAo\bin\Debug\QLShopQuanAo.application
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_LiêuThiệnQuang _ 0285_QLShopQuanAo\bin\Debug\QLShopQuanAo.exe
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_LiêuThiệnQuang _ 0285_QLShopQuanAo\bin\Debug\QLShopQuanAo.pdb
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_LiêuThiệnQuang _ 0285_QLShopQuanAo\obj\Debug\QLShopQuanAo.csproj.AssemblyReference.cache
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_LiêuThiệnQuang _ 0285_QLShopQuanAo\obj\Debug\QLShopQuanAo.csproj.SuggestedBindingRedirects.cache
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_LiêuThiệnQuang _ 0285_QLShopQuanAo\obj\Debug\QLShopQuanAo.frm_DangNhap.resources
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_LiêuThiệnQuang _ 0285_QLShopQuanAo\obj\Debug\QLShopQuanAo.frm_Menu.resources
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_LiêuThiệnQuang _ 0285_QLShopQuanAo\obj\Debug\QLShopQuanAo.frm_NhanVien.resources
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_LiêuThiệnQuang _ 0285_QLShopQuanAo\obj\Debug\QLShopQuanAo.frm_QuanLy_Ao.resources
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_LiêuThiệnQuang _ 0285_QLShopQuanAo\obj\Debug\QLShopQuanAo.frm_QuanLy_PhuKien.resources
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_LiêuThiệnQuang _ 0285_QLShopQuanAo\obj\Debug\QLShopQuanAo.frm_QuanLy_Quan.resources
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_LiêuThiệnQuang _ 0285_QLShopQuanAo\obj\Debug\QLShopQuanAo.frm_TaiKhoanDangNhap.resources
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_LiêuThiệnQuang _ 0285_QLShopQuanAo\obj\Debug\QLShopQuanAo.frm_ThongTinUngDung.resources
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_LiêuThiệnQuang _ 0285_QLShopQuanAo\obj\Debug\QLShopQuanAo.Properties.Resources.resources
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_LiêuThiệnQuang _ 0285_QLShopQuanAo\obj\Debug\QLShopQuanAo.csproj.GenerateResource.cache
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_LiêuThiệnQuang _ 0285_QLShopQuanAo\obj\Debug\QLShopQuanAo.csproj.CoreCompileInputs.cache
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_LiêuThiệnQuang _ 0285_QLShopQuanAo\obj\Debug\QLShopQuanAo.exe.manifest
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_LiêuThiệnQuang _ 0285_QLShopQuanAo\obj\Debug\QLShopQuanAo.application
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_LiêuThiệnQuang _ 0285_QLShopQuanAo\obj\Debug\QLShopQuanAo.exe
+D:\laptrinhC#\laptrinhungdungdotnet\DoAnCaNhan_LiêuThiệnQuang _ 0285_QLShopQuanAo\obj\Debug\QLShopQuanAo.pdb
